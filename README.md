@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dharmender</h1>
+<h1 align="center">Hi , I'm Dharmender</h1>
 
 <h3 align="center">
 System Administrator • DevOps Engineer in Progress • Linux & Cloud Enthusiast
@@ -10,7 +10,7 @@ Building hands-on DevOps skills through real-world labs, automation, cloud infra
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 - 💻 System Administrator with hands-on Linux experience
 - 🌱 Currently learning DevOps & Cloud technologies
@@ -21,7 +21,7 @@ Building hands-on DevOps skills through real-world labs, automation, cloud infra
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 <p>
 Linux • Git • GitHub • Bash • Docker • AWS • Kubernetes • Terraform • Jenkins • GitHub Actions • Ansible
@@ -29,7 +29,7 @@ Linux • Git • GitHub • Bash • Docker • AWS • Kubernetes • Terrafor
 
 ---
 
-## 📌 Current Focus
+##  Current Focus
 
 <p>
 CI/CD Pipelines • Cloud Infrastructure • Kubernetes • Infrastructure as Code • Monitoring • Automation
@@ -41,11 +41,11 @@ CI/CD Pipelines • Cloud Infrastructure • Kubernetes • Infrastructure as Co
 
 | Project | Description |
 |---|---|
-| Devops-learning | Complete DevOps learning repository |
-| bash-scripts | Linux automation & admin scripts |
-| docker-projects | Docker labs and containerized apps |
-| terraform-labs | Infrastructure as Code practice |
-| kubernetes-manifests | Kubernetes deployment YAMLs |
+| Devops-learning | Complete DevOps learning repository                                   |
+| bash-scripts | Linux automation & admin scripts                                         |
+| docker-projects | Docker labs and containerized apps                                    |
+| terraform-labs | Infrastructure as Code practice                                        |
+| kubernetes-manifests | Kubernetes deployment YAMLs                                      |
 
 ---
 
