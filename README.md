@@ -37,29 +37,17 @@ CI/CD Pipelines • Cloud Infrastructure • Kubernetes • Infrastructure as Co
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
 | Project | Description |
 |---|---|
-| Devops-learning | Complete DevOps learning repository                                   |
-| bash-scripts | Linux automation & admin scripts                                         |
-| docker-projects | Docker labs and containerized apps                                    |
-| terraform-labs | Infrastructure as Code practice                                        |
-| kubernetes-manifests | Kubernetes deployment YAMLs                                      |
+| Devops-learning                                              | Complete DevOps learning repository                                    |
+| bash-scripts                                                 | Linux automation & admin scripts                                       |
+| docker-projects                                              | Docker labs and containerized apps                                     |
+| terraform-labs                                               | Infrastructure as Code practice                                        |
+| kubernetes-manifests                                         | Kubernetes deployment YAMLs                                            |
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dharmenderprof-dev&show_icons=true" height="170"/>
-  
-  <img src="https://streak-stats.demolab.com?user=dharmenderprof-dev" height="170"/>
-</p>
-
----
-
-## 🧠 Learning Philosophy
+## Learning Philosophy
 
 ```bash
 Learn → Practice → Break → Troubleshoot → Automate → Document
@@ -67,7 +55,7 @@ Learn → Practice → Break → Troubleshoot → Automate → Document
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 <p>
 LinkedIn https://www.linkedin.com/in/dharmender-510036273/
