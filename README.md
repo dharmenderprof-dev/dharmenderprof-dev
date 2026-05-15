@@ -1,5 +1,8 @@
-<h1 align="center">Hi , I'm Dharmender</h1>
-<h3 align="center">System Administrator • DevOps Engineer in Progress • Linux & Cloud Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Dharmender</h1>
+
+<h3 align="center">
+System Administrator • DevOps Engineer in Progress • Linux & Cloud Enthusiast
+</h3>
 
 <p align="center">
 Building hands-on DevOps skills through real-world labs, automation, cloud infrastructure, and continuous learning.
@@ -9,51 +12,28 @@ Building hands-on DevOps skills through real-world labs, automation, cloud infra
 
 ## 🚀 About Me
 
-- 💻 Currently working as a **System Administrator**
-- 🌱 Learning and building in **DevOps & Cloud**
-- ⚙️ Focused on **Linux, Docker, AWS, Kubernetes, Terraform & CI/CD**
-- 🛠 Passionate about **automation, infrastructure, and troubleshooting**
-- 📚 Documenting my complete DevOps journey with practical labs and projects
-- 🎯 Goal: Become a highly skilled DevOps Engineer
+- 💻 System Administrator with hands-on Linux experience
+- 🌱 Currently learning DevOps & Cloud technologies
+- ⚙️ Focused on Docker, AWS, Kubernetes, Terraform & CI/CD
+- 🛠 Passionate about Automation & Infrastructure
+- 📚 Building real-world DevOps projects and labs
+- 🎯 Goal: Become a skilled DevOps Engineer
 
 ---
 
 ## 🧰 Tech Stack
 
-### 🖥 Operating Systems
-- Ubuntu Linux
-- Windows
-
-### 🔧 DevOps & Cloud Tools
-- Git & GitHub
-- Docker
-- AWS
-- Kubernetes
-- Terraform
-- Jenkins
-- GitHub Actions
-- Ansible
-
-### 📜 Scripting & Automation
-- Bash Shell Scripting
-
-### 🌐 Networking & System Administration
-- Linux Administration
-- SSH
-- Networking Basics
-- Service Management
-- Monitoring & Logs
+<p>
+Linux • Git • GitHub • Bash • Docker • AWS • Kubernetes • Terraform • Jenkins • GitHub Actions • Ansible
+</p>
 
 ---
 
 ## 📌 Current Focus
 
-- Building real DevOps projects
-- CI/CD pipeline automation
-- Kubernetes deployments
-- Infrastructure as Code (IaC)
-- Cloud infrastructure practices
-- Monitoring & troubleshooting
+<p>
+CI/CD Pipelines • Cloud Infrastructure • Kubernetes • Infrastructure as Code • Monitoring • Automation
+</p>
 
 ---
 
@@ -63,18 +43,19 @@ Building hands-on DevOps skills through real-world labs, automation, cloud infra
 |---|---|
 | Devops-learning | Complete DevOps learning repository |
 | bash-scripts | Linux automation & admin scripts |
-| docker-projects | Docker labs and containerized applications |
+| docker-projects | Docker labs and containerized apps |
 | terraform-labs | Infrastructure as Code practice |
-| kubernetes-manifests | Kubernetes YAML deployments |
+| kubernetes-manifests | Kubernetes deployment YAMLs |
 
 ---
 
-## 📈 GitHub Goals
+## 📊 GitHub Stats
 
-- Maintain consistent daily activity
-- Build production-style DevOps projects
-- Improve automation & cloud skills
-- Contribute to open source in future
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dharmenderprof-dev&show_icons=true" height="170"/>
+  
+  <img src="https://streak-stats.demolab.com?user=dharmenderprof-dev" height="170"/>
+</p>
 
 ---
 
@@ -88,12 +69,14 @@ Learn → Practice → Break → Troubleshoot → Automate → Document
 
 ## 📫 Connect With Me
 
-- LinkedIn https://www.linkedin.com/in/dharmender-510036273/
+<p>
+LinkedIn (Coming Soon)
+</p>
 
 ---
 
 <p align="center">
-⚡ “Consistency and hands-on practice build real engineering skills.”
+⚡ Consistency + Hands-on Practice = Real DevOps Skills
 </p>
 
 
