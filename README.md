@@ -70,7 +70,7 @@ Learn → Practice → Break → Troubleshoot → Automate → Document
 ## 📫 Connect With Me
 
 <p>
-LinkedIn (Coming Soon)
+LinkedIn https://www.linkedin.com/in/dharmender-510036273/
 </p>
 
 ---
