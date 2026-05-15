@@ -95,3 +95,15 @@ Learn → Practice → Break → Troubleshoot → Automate → Document
 <p align="center">
 ⚡ “Consistency and hands-on practice build real engineering skills.”
 </p>
+
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dharmenderprof-dev&show_icons=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dharmenderprof-dev" alt="GitHub Streak" />
+</p>
